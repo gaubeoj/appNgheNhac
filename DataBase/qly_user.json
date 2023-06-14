@@ -1,0 +1,85 @@
+{
+  "tb_users": [
+    {
+      "fullname": "ghtter",
+      "username": "abc",
+      "passwd": "123",
+      "avatar": "https://66.media.tumblr.com/d8ab7843f639282e66ab4e4f525b59d4/tumblr_onc34jlP1G1rpwm80o1_250.jpg",
+      "id": 1
+    },
+    {
+      "fullname": "hffs",
+      "username": "abcd",
+      "passwd": "123",
+      "avatar": "https://tse4.mm.bing.net/th?id=OIP.iz5OMRVC-j2yDTfwcQ-svgHaJW&pid=Api&P=0.jpg",
+      "id": 2
+    },
+    {
+      "fullname": "hsfdfd",
+      "username": "sfjfd",
+      "passwd": "123252",
+      "avatar": "https://tse1.mm.bing.net/th?id=OIP.lmPETaG86a_IzgPVlYhoUAHaNK&pid=Api&P=0.jpg",
+      "id": 3
+    }
+  ],
+  "Tb_post": [
+    {
+      "id": 1,
+      "Noidung": "Possibly the most common style of navigation in mobile apps is tab-based navigation. This can be tabs on the bottom of the screen or on the top below the header (or even instead of a header)."
+    },
+    {
+      "id": 2,
+      "Noidung": "A React component for displaying different types of images, including network images, static resources, temporary local images, and images from local disk, such as the camera roll.      This example shows fetching and displaying an image from local storage as well as one from network and even from data provided in the 'data:' uri scheme."
+    },
+    {
+      "Noidung": "A wrapper for making views respond properly to touches. On press down, the opacity of the wrapped view is decreased, which allows the underlay color to show through, darkening or tinting the view.\n\nThe underlay comes from wrapping the child in a new View, which can affect layout, and sometimes cause unwanted visual artifacts if not used correctly, for example if the backgroundColor of the wrapped view isn't explicitly set to an opaque color.\n\nTouchableHighlight must have one child (not zero or more than one). If you wish to have several child components, wrap them in a View.",
+      "id": 3
+    },
+    {
+      "Noidung": "fbsfvdfvfvsvjkbfvjbvbvb DV mmnfvnklfnklnvklvns,for ,of,.I vvmlmlmlvldffkfkfdkjgsflfd",
+      "id": 4
+    },
+    {
+      "Noidung": "Trên macbook:\nMở terminal ra chạy lệnh để cài đặt biến môi trường\n\necho \"export PATH=$ANDROID_HOME/platform-tools:\\$PATH\" >> ~/`[[ $SHELL == *\"zsh\" ]] && echo '.zshenv' || echo '.bash_profile'`\\n\n\n[ -d \"$HOME/Library/Android/sdk\" ] && ANDROID_HOME=$HOME/Library/Android/sdk || ANDROID_HOME=$HOME/Android/Sdk\\necho \"export ANDROID_HOME=$ANDROID_HOME\" >> ~/`[[ $SHELL == *\"zsh\" ]] && echo '.zshenv' || echo '.bash_profile'`\\n\n\n\n",
+      "id": 5
+    },
+    {
+      "Noidung": "ahfdnbfvnc\n",
+      "id": 6
+    }
+  ],
+  "Tb_Music": [
+    {
+      "id": 1,
+      "tieude": "Luôn Yêu đời",
+      "link": "https://www.youtube.com/watch?v=CnZxamAbSnw&list=RDM9wWc2EKxX8&index=2"
+    },
+    {
+      "id": 2,
+      "tieude": " Hayd - Head In The Clouds",
+      "link": "https://www.youtube.com/watch?v=M9wWc2EKxX8&list=RDM9wWc2EKxX8&index=1"
+    },
+    {
+      "id": 3,
+      "tieude": " Yêu người có ước mơ",
+      "link": "https://www.youtube.com/watch?v=dhDdW0mwyXg&list=RDM9wWc2EKxX8&index=3"
+    }
+  ],
+  "Tb_Admin": [
+    {
+      "id": 1,
+      "username": "admin",
+      "passwd": "123",
+      "fullname": "Nguyen Quang Huy",
+      "avatar": "https://images5.alphacoders.com/468/468447.jpg"
+    }
+  ],
+  "Tb_like": [
+    {
+      "id": 1,
+      "like": 0,
+      "SL_Comment": 0,
+      "commnent": ""
+    }
+  ]
+}

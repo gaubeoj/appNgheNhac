@@ -1,0 +1,25 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "fullname": "Nguyen Van A",
+      "phone": "06515488",
+      "email": "eadd@gmail.com2",
+      "img": "https://tse2.mm.bing.net/th?id=OIP.XllLJPkojgW6jInLWO9bFgHaF7&pid=Api&P=0.jpg"
+    },
+    {
+      "fullname": "abc",
+      "phone": "025533221",
+      "email": "Sfyyg@gmail.com",
+      "img": "https://tse1.mm.bing.net/th?id=OIP.mqH-9x5Ov92Qq6O-wjDVaAHaEl&pid=Api&P=0.jpg",
+      "id": 2
+    },
+    {
+      "fullname": "fdf",
+      "phone": "03210515",
+      "email": "dsvsaav",
+      "img": "https://youtubeartons.weebly.com/uploads/2/5/4/0/25400791/s460125241903838292_p1_i2_w640.jpeg",
+      "id": 3
+    }
+  ]
+}

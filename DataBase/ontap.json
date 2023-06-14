@@ -1,0 +1,22 @@
+{
+  "user": [
+    {
+      "hoten": "Hhh",
+      "luong": "12345",
+      "email": "Abc",
+      "SDT": "123456789",
+      "trangthai": "False",
+      "img": "https://anhdep123.com/wp-content/uploads/2021/02/anh-avatar-hai-huoc.jpg",
+      "id": 1
+    },
+    {
+      "hoten": "Huy",
+      "luong": "9999",
+      "email": "Gittu",
+      "SDT": "098648585",
+      "trangthai": "True",
+      "img": "https://i.pinimg.com/originals/33/38/b2/3338b25f426b2076afbdb6deaf590d04.jpg",
+      "id": 2
+    }
+  ]
+}

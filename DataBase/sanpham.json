@@ -1,0 +1,56 @@
+{
+  "products": [
+    {
+      "name": "Iphone 14",
+      "price": 333333,
+      "id": 1,
+      "catsId": 1
+    },
+    {
+      "name": "Laptop hp i7",
+      "price": 22222,
+      "id": 2,
+      "catsId": 2
+    },
+    {
+      "name": "iphone",
+      "price": "12345",
+      "catsId": 1,
+      "id": 3
+    },
+    {
+      "name": "Iphone 12",
+      "price": "99999",
+      "catsId": 1,
+      "id": 4
+    },
+    {
+      "name": "Iphone 12",
+      "price": "99999",
+      "catsId": 1,
+      "id": 5
+    },
+    {
+      "name": "Iphone 12",
+      "price": "99999",
+      "catsId": 1,
+      "id": 6
+    },
+    {
+      "name": "Iphone 12",
+      "price": "99999",
+      "catsId": 1,
+      "id": 7
+    }
+  ],
+  "cats": [
+    {
+      "id": 1,
+      "name": "Điện thoại"
+    },
+    {
+      "id": 2,
+      "name": "Máy tính"
+    }
+  ]
+}

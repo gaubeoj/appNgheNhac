@@ -1,0 +1,21 @@
+{
+  "qly": [
+    {
+      "id": 1,
+      "u_number ": 1,
+      "server_name": "abc",
+      "image": "https://www.maychudell.com.vn/uploadfiles/product/thumbnails/DELL%20POWEREDGE%20R510%20E5620.jpg",
+      "server_ip": " 102.168.10.5",
+      "status ": 1,
+      "hotline": 3515632
+    },
+    {
+      "image": "https://www.maychudell.com.vn/uploadfiles/product/thumbnails/DELL%20POWEREDGE%20R510%20E5620.jpg",
+      "server_name": "ss",
+      "server_ip": "vds",
+      "status": "1",
+      "hotline": "12345",
+      "id": 2
+    }
+  ]
+}
